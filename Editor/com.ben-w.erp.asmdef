@@ -1,5 +1,6 @@
 {
     "name": "com.ben-w.erp",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
