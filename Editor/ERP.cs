@@ -236,8 +236,6 @@ namespace ERP
                 {
                     LargeImage = "logo",
                     LargeText = "Unity " + Application.unityVersion,
-                    //SmallImage = "logo",
-                    SmallText = "Unity " + Application.unityVersion,
                 },
             };
 
